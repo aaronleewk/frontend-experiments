@@ -1,0 +1,17 @@
+.errorMsg {
+    max-width: 350px;
+    color: #f21e08;
+    padding: 2px 0;
+    margin-top: 2px;
+    font-size: 14px;
+    font-weight: 300;
+}
+
+.successMsg {
+    color: #7ca936;
+}
+
+.button {
+    max-width: 150px;
+    padding: 5px 10px;
+}
